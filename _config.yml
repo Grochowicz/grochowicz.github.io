@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  grochowicz
 repo: https://github.com/Grochowicz/grochowicz.github.io
+sidebar_home_link: /
 sidebar_blog_link: /blog/
 paginate: 5
 
