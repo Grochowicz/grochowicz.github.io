@@ -21,14 +21,17 @@
 title: Eric Grochowicz
 email: ericgrochowicz@hotmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio
+  CS Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  grochowicz
+repo: https://github.com/Grochowicz/grochowicz.github.io
+sidebar_blog_link: /blog/
+paginate: 5
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
